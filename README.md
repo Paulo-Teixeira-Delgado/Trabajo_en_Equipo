@@ -4,4 +4,4 @@
 Programa para pasar de binario a hexadecimal
 
 #M1
-Programa para pasar de decimal a binario
+Programa para pasar de binario a decimal
